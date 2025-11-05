@@ -17,6 +17,7 @@
     "test": "jest",
     "prepare": "npm run build"
   },
+  "homepage": "https://dsa-x.in",
   "author": "Amogha Telkar",
   "license": "MIT",
   "keywords": [
