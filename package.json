@@ -1,6 +1,6 @@
 {
   "name": "dsa-x",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A modern TypeScript data structures library — simple, fast, and educational.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/amoghatelkar/ds-x.git"
+    "url": "https://github.com/amoghatelkar/dsa-x.git"
   },
   "scripts": {
     "build": "tsup src/index.ts --dts --format cjs,esm",
