@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/amoghatelkar/dsa-x.git"
+    "url": "https://github.com/hyper-realm/dsa-x"
   },
   "scripts": {
     "build": "tsup src/index.ts --dts --format cjs,esm",
